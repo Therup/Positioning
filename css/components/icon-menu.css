@@ -1,0 +1,15 @@
+a {
+  color: black;
+}
+.icon-menu {
+  width: 50px;
+  font-size: 1.5em;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  padding: 15px 0;
+  border: 1px solid black;
+  position: sticky;
+  top: 140px;
+}

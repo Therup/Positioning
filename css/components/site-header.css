@@ -7,6 +7,9 @@
   background-color: #f1f1f1;
   border: 1px solid darkgray;
   margin-bottom: 20px;
+  position: sticky;
+  top: 0;
+  z-index: 1;
 }
 .site-header input {
   border-radius: 10px;
