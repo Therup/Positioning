@@ -1,0 +1,24 @@
+.customer-service-chat {
+  border: 1px solid black;
+  background-color: lightgrey;
+  width: 200px;
+  padding: 10px 5px;
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+}
+.customer-service-chat label {
+  display: block;
+  text-align: center;
+  margin: 10px;
+}
+.customer-service-chat textarea {
+  width: 100%;
+  height: 4rem;
+}
+.customer-service-chat button {
+  display: block;
+  width: 80px;
+  margin: 0 auto;
+  padding: 5px;
+}
